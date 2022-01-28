@@ -8,4 +8,4 @@ Change SQL Server in appsettings.json to yours.
 For the application to work properly, you need to import the database to the server. The database is located in the "bazadanych" folder of the "baza.bacpac" file.
 Admin email: admin.board@gmail.com Admin password: Adamin1!
 
-User email: user@gmail.com User password: User1! or Admin1!
+User email: admin@gmail.com User password: User1! or Admin1!
